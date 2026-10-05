@@ -1,0 +1,9 @@
+Hi Fiona,
+
+The policy assistant is ready for you to use. It answers questions only from the Meridian policy text, and when the policy doesn't cover something, it says so instead of guessing.
+
+I tested it on 20 questions. It gave correct, policy-grounded answers on notice periods, cash limits, complaint timings, opening hours, under-18 treatments and refunds. It also handled the cases where a general rule has an exception, such as deposits being non-refundable except during the cooling-off period. For topics the policy doesn't cover (parking, laser hair removal, prices), it correctly said the policy doesn't specify it, and it did not disclose confidential staff information.
+
+One thing to be aware of: in one test, a question about how long records are kept got "the policy does not specify" in one run and the correct answer (eight years) in another. So if the assistant says something isn't in the policy and you expect it to be, please check policy.txt directly or ask the question again.
+
+With that in mind, you can rely on it for day-to-day policy questions. 
