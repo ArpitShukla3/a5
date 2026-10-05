@@ -1,0 +1,4 @@
+venv
+chroma_db
+contextualized_chunks.json
+.env
