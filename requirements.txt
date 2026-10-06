@@ -6,3 +6,5 @@ langchain-text-splitters
 rank_bm25
 python-dotenv
 pathlib
+sentence-transformers
+langsmith
